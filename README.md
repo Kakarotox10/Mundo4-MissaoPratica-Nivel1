@@ -1,11 +1,8 @@
----
-
 - Aluno: **Gilvan Junior N Gonçalves**
 - Matrícula: **202304560188**
 - Curso: **Desenvolvimento Full Stack**
 - Turma: **2024.4**
 
----
 
 # Bem-vindo(a) ao App desenvolvido com React Native e Expo
 
@@ -26,7 +23,7 @@ Este é um projeto [Expo](https://expo.dev) em React Native, criado com [`npx cr
 5. Inicie o servidor de desenvolvimento:
 
    `npm start`
-6. Utilize o Expo Client em seu smartphone ou emulador para visualizar o app.
+
 
 ## Funcionalidades
 
